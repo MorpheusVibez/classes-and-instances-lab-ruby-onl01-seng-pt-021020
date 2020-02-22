@@ -2,6 +2,11 @@ class DOG
   
 end
 
-fido = DOG.new 
-snoopy = DOG.new 
+fido = DOG.new
+fido
+  
+snoopy = DOG.new
+snoopy
+
 lassie = DOG.new
+lassie
